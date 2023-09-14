@@ -1,8 +1,7 @@
 ### Olá! Eu sou o Lucas Carvalho!
 
 
-- 🔭 Desenvolvedor front-end
-- 🌱 Atualmente estudando back-end
+- 🔭 Desenvolvedor Web Full-Stack 
 - 😄 ele/dele
 
 <div align="center">  
